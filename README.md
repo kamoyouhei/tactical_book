@@ -2,7 +2,8 @@
 
 図解で学ぶ、戦術・作戦・指揮の基礎と現代的課題。
 
-> **執筆中／資料基準日：2026年7月12日**  
+> **執筆中／資料基準日：2026年7月13日**
+>
 > 本書は段階的に制作している。用語と分析枠組みを整え、各章の本文・図版・演習を順次追加する。
 
 ![戦争の水準](assets/levels-of-war.svg)
@@ -59,6 +60,8 @@
 ## 現在の原稿
 
 - [序章：戦術と指揮の基本概念](manuscript/00-introduction.md)
+- [第1章：戦術判断を支える原則――状況に応じた適用](manuscript/01-principles-of-tactical-judgment.md)
+- [2026年7月13日の日次公開資料レビュー](research/2026-07-13-daily-review.md)
 - [2026年7月の公開ドクトリン更新調査](research/2026-07-12-doctrine-update.md)
 - [参考文献](references.md)
 - [執筆・提案ガイド](CONTRIBUTING.md)
@@ -67,12 +70,13 @@
 
 ## 資料の鮮度
 
-2026年7月12日時点の基準は次のとおり。
+2026年7月13日時点の基準は次のとおり。
 
-- 日本の最新年次防衛白書は令和7年版。2026年の状況は、統合作戦司令部発足1周年後の公式発表と令和8年度成立予算で補う。
+- 日本の最新年次防衛白書は令和7年版。2026年の状況は、統合作戦司令部発足1周年後の公式発表、令和8年度成立予算、公布済み法令で補う。法律第53号による航空宇宙自衛隊への改編は法制化済みだが未施行であり、現行名称は航空自衛隊である。
 - 米統合ドクトリンはJP 3-0（2022年）を、米陸軍の作戦ドクトリンはADP 3-0／FM 3-0（2025年）を基準とする。
 - 戦術の基準資料にはFM 3-90（2023年）を、ミッションコマンドにはADP 6-0（2019年）を用いる。
-- NATOのデジタル・C2分野にはAlliance Digital StrategyとDigital Transformation Implementation Strategy 2.0（ともに2026年）を反映する。
+- NATOの作戦・計画ドクトリンはAJP-3 Edition D Version 1（2025年）とAJP-5 Edition B Version 1（2026年）、持続支援はAJP-4 Edition C Version 1（2025年）、CISはAJP-6 Edition B Version 1（2024年）を基準とする。
+- NATOのデジタル・C2分野にはAlliance Digital Strategy、Digital Transformation Implementation Strategy 2.0、2026年7月のAnkara Summit DeclarationとNCIAの契約公表を反映する。政治的コミットメント、契約、競争評価、配備、運用開始を区別する。
 
 時点に依存する記述には確認日または資料の年版を付ける。新しい版が出た場合は、旧版との差分と用語変更を確認してから本文を更新する。
 
