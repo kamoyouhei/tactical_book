@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
   <title id="title">指揮を学習循環として捉える図</title>
-  <desc id="desc">理解、構想、伝達、実行、評価が循環し、指揮官の意図が中心にあることを示す概念図。</desc>
+  <desc id="desc">理解・構想、伝達・委任、実行・適応、評価・学習の四段階が循環し、指揮官の意図が中心にあることを示す概念図。</desc>
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#f8fafc"/>
