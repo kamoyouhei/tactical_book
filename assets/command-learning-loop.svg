@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">指揮を学習循環として捉える図</title>
+  <desc id="desc">理解、構想、伝達、実行、評価が循環し、指揮官の意図が中心にあることを示す概念図。</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#e5edf6"/>
+    </linearGradient>
+    <filter id="shadow2" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#0f172a" flood-opacity=".15"/>
+    </filter>
+    <marker id="arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto">
+      <path d="M0,0 L11,5.5 L0,11 z" fill="#466b8f"/>
+    </marker>
+    <style>
+      .jp { font-family: "Noto Sans JP", "Yu Gothic", "Hiragino Kaku Gothic ProN", sans-serif; }
+      .node-title { font-size: 26px; font-weight: 700; fill: #fff; }
+      .node-sub { font-size: 17px; fill: #eaf3fb; }
+      .note { font-size: 18px; fill: #475569; }
+    </style>
+  </defs>
+  <rect width="1200" height="760" fill="url(#bg2)"/>
+  <text x="600" y="60" text-anchor="middle" class="jp" font-size="34" font-weight="700" fill="#172033">指揮は「一度の命令」ではなく学習循環である</text>
+  <text x="600" y="94" text-anchor="middle" class="jp note">不確実性の中で、理解と行動を更新し続ける</text>
+
+  <g fill="none" stroke="#466b8f" stroke-width="5" marker-end="url(#arrow)">
+    <path d="M600 185 C785 175 910 250 940 355"/>
+    <path d="M930 425 C870 555 760 608 660 620"/>
+    <path d="M540 620 C385 600 280 525 255 430"/>
+    <path d="M260 345 C315 235 420 185 540 184"/>
+  </g>
+
+  <g filter="url(#shadow2)">
+    <rect x="465" y="125" width="270" height="118" rx="26" fill="#24543d"/>
+    <rect x="810" y="322" width="270" height="118" rx="26" fill="#284d73"/>
+    <rect x="465" y="560" width="270" height="118" rx="26" fill="#376b9e"/>
+    <rect x="120" y="322" width="270" height="118" rx="26" fill="#4d83b8"/>
+    <circle cx="600" cy="390" r="124" fill="#fff" stroke="#d3a62e" stroke-width="8"/>
+  </g>
+
+  <text x="600" y="170" text-anchor="middle" class="jp node-title">理解・構想</text>
+  <text x="600" y="207" text-anchor="middle" class="jp node-sub">状況、目的、制約を捉える</text>
+
+  <text x="945" y="367" text-anchor="middle" class="jp node-title">伝達・委任</text>
+  <text x="945" y="404" text-anchor="middle" class="jp node-sub">意図と裁量の範囲を共有する</text>
+
+  <text x="600" y="605" text-anchor="middle" class="jp node-title">実行・適応</text>
+  <text x="600" y="642" text-anchor="middle" class="jp node-sub">現場で判断し、変化に応じる</text>
+
+  <text x="255" y="367" text-anchor="middle" class="jp node-title">評価・学習</text>
+  <text x="255" y="404" text-anchor="middle" class="jp node-sub">結果と前提を見直す</text>
+
+  <text x="600" y="365" text-anchor="middle" class="jp" font-size="28" font-weight="700" fill="#5f4610">指揮官の意図</text>
+  <text x="600" y="402" text-anchor="middle" class="jp" font-size="20" fill="#334155">目的・理由・望ましい状態</text>
+  <text x="600" y="434" text-anchor="middle" class="jp" font-size="17" fill="#64748b">共通理解と相互信頼が循環を支える</text>
+
+  <rect x="830" y="135" width="300" height="100" rx="16" fill="#fff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="855" y="170" class="jp" font-size="18" font-weight="700" fill="#334155">不確実性への備え</text>
+  <text x="855" y="200" class="jp note">・前提を明示する</text>
+  <text x="855" y="225" class="jp note">・異論と悪い知らせを歓迎する</text>
+
+  <text x="600" y="725" text-anchor="middle" class="jp note">図0-2：指揮の概念モデル。特定軍種の正式な手順を再現したものではない。</text>
+</svg>
