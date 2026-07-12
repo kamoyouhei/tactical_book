@@ -199,7 +199,7 @@ NATO ACTは、MDOを、陸・海・空・宇宙・サイバーの軍事活動を
 - [Joint Chiefs of Staff, JP 3-0, Joint Campaigns and Operations](https://www.jcs.mil/Doctrine/Joint-Doctrine-Pubs/3-0-Operations-Series/), 18 June 2022.
 - [Department of the Army, ADP 3-0, Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN43323-ADP_3-0-000-WEB-1.pdf), 21 March 2025.
 - [Department of the Army, FM 3-0, Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN43326-FM_3-0-000-WEB-1.pdf), 21 March 2025.
-- [Department of the Army, FM 3-90, Tactics](https://rdl.train.army.mil/catalog-ws/view/100.ATSC/17614720-DF1D-40BE-9123-F80680BF3974-1274406509298/fm3_90.pdf), 1 May 2023.
+- [Department of the Army, FM 3-90, Tactics](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN38160-FM_3-90-000-WEB-1.pdf), 1 May 2023.
 - [Department of the Army, ADP 6-0, Mission Command](https://rdl.train.army.mil/catalog-ws/view/100.ATSC/1FE33715-CFD1-4614-A489-B3E0480C3F80-1428688882108/adp6_0.pdf), 31 July 2019.
 - [防衛省『令和7年版防衛白書：統合作戦司令部』](https://www.mod.go.jp/j/press/wp/wp2025/html/n240203000.html)
 - [統合幕僚監部「統合幕僚監部創設20周年及び統合作戦司令部創設1周年」](https://www.mod.go.jp/js/about/message/2026/0327.html)、2026年3月27日。
