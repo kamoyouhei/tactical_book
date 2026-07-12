@@ -61,6 +61,7 @@
 - [参考文献](references.md)
 - [執筆・提案ガイド](CONTRIBUTING.md)
 - [執筆ロードマップ](ROADMAP.md)
+- [プライバシー方針](PRIVACY.md)
 
 ## 図版の凡例
 
