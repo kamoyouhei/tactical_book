@@ -25,7 +25,7 @@
 ### NATO
 
 - **NATOは「統合」と「多領域」を区別している。** NATO Allied Command Transformation（ACT）の公開説明では、多領域作戦（MDO）は陸・海・空・宇宙・サイバーの軍事活動を、非軍事的活動とも同期させ、収斂する効果を生む考え方とされる。
-- **AJP-3 Edition D Version 1（2025年8月）は、Alliance Concept for MDOを参照する。** NATOのMDOを単なる将来案として扱わない。
+- **MDOはNATO ACTが2023年に説明したAlliance Conceptに基づく。** 単なる検討案ではなく、能力開発とデジタル変革の基準として扱われている。
 - **2025年MDO会議は、共通理解、Cross-Domain Commandの文化、能力開発の調整を重点とした。**
 - **2026年Alliance Digital Strategyは、MDOを支えるデジタル変革を技術更新に限定しない。** mission-driven transformation、相互運用可能でsecure-by-designの基盤、データ中心の運用、迅速な技術導入、デジタル人材を一体として扱う。
 - **Digital Transformation Implementation Strategy 2.0（2026年5月）は、人・過程・技術の協調変革を実施枠組みにする。** 旧版DTISを最新資料として引用しない。
@@ -56,12 +56,11 @@
 - Joint Chiefs of Staff, “[JP 3-0, Joint Campaigns and Operations](https://www.jcs.mil/Doctrine/Joint-Doctrine-Pubs/3-0-Operations-Series/),” 18 June 2022.
 - Department of the Army, “[ADP 3-0, Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN43323-ADP_3-0-000-WEB-1.pdf),” 21 March 2025.
 - Department of the Army, “[FM 3-0, Operations](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN43326-FM_3-0-000-WEB-1.pdf),” 21 March 2025.
-- Department of the Army, “[FM 3-90, Tactics](https://rdl.train.army.mil/catalog-ws/view/100.ATSC/17614720-DF1D-40BE-9123-F80680BF3974-1274406509298/fm3_90.pdf),” 1 May 2023.
+- Department of the Army, “[FM 3-90, Tactics](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN38160-FM_3-90-000-WEB-1.pdf),” 1 May 2023.
 - Department of the Army, “[ADP 6-0, Mission Command: Command and Control of Army Forces](https://rdl.train.army.mil/catalog-ws/view/100.ATSC/1FE33715-CFD1-4614-A489-B3E0480C3F80-1428688882108/adp6_0.pdf),” 31 July 2019.
 
 ### NATO
 
-- NATO, “[AJP-3, Allied Joint Doctrine for the Conduct of Operations, Edition D Version 1](https://coi.nato.int/EWCOI/EW%20COI%20Shared%20Documents/EMO%20DOCTRINE%20PREP/NEWWG%203-25%20Working%20Folder/EMB%20Organisation%20Chapter/AJP-3%20EDD%20V1%20E.pdf),” 6 August 2025.
 - NATO Allied Command Transformation, “[Multi-Domain Operations in NATO—Explained](https://www.act.nato.int/article/mdo-in-nato-explained/),” 5 October 2023.
 - NATO, “[NATO Digital Backbone](https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2024/12/13/nato-digital-backbone),” 13 December 2024.
 - NATO, “[Data Strategy for the Alliance](https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/05/05/data-strategy-for-the-alliance),” 5 May 2025.
